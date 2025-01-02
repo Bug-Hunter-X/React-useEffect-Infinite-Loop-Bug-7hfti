@@ -1,0 +1,1 @@
+This repository demonstrates a common React bug involving the `useEffect` hook.  Incorrectly placing state variables in the dependency array can lead to an infinite render loop. The `bug.js` file contains the erroneous code, while `bugSolution.js` provides the corrected version.
